@@ -1,0 +1,23 @@
+BLOG IMPORT MAPPING REPORT
+Generated: 2025-10-14 04:18:01
+Mode: REAL IMPORT
+================================================================================
+
+STATUS: SUCCESS
+TITLE: 10 Science - Backed Ways to Naturally Lower Cortisol and Reduce Stress
+POST ID: 2741
+SLUG: 10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+FROM: /spa-theory-wellness-beauty-blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+TO: http://spa-theory.local/blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress/
+LINKS COUNT: 12
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 2 Sisters, 1 Company, A Single Dream
+POST ID: 2742
+SLUG: 2-sisters-1-company-a-single-dream
+FROM: /spa-theory-wellness-beauty-blog/2-sisters-1-company-a-single-dream
+TO: http://spa-theory.local/blog/2-sisters-1-company-a-single-dream/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+

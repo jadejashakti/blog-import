@@ -1,0 +1,14 @@
+BLOG IMPORT MAPPING REPORT
+Generated: 2025-10-14 05:31:29
+Mode: REAL IMPORT
+================================================================================
+
+STATUS: SUCCESS
+TITLE: 10 Science - Backed Ways to Naturally Lower Cortisol and Reduce Stress
+POST ID: 2327
+SLUG: 10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+FROM: /spa-theory-wellness-beauty-blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+TO: http://spa-theory.local/blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress/
+LINKS COUNT: 12
+--------------------------------------------------------------------------------
+

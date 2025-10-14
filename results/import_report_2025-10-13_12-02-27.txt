@@ -1,0 +1,95 @@
+BLOG IMPORT MAPPING REPORT
+Generated: 2025-10-13 12:02:27
+Mode: REAL IMPORT
+================================================================================
+
+STATUS: SUCCESS
+TITLE: 10 Science - Backed Ways to Naturally Lower Cortisol and Reduce Stress
+POST ID: 2570
+SLUG: 10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+FROM: /spa-theory-wellness-beauty-blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+TO: http://spa-theory.local/blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress/
+LINKS COUNT: 12
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 2 Sisters, 1 Company, A Single Dream
+POST ID: 2571
+SLUG: 2-sisters-1-company-a-single-dream
+FROM: /spa-theory-wellness-beauty-blog/2-sisters-1-company-a-single-dream
+TO: http://spa-theory.local/blog/2-sisters-1-company-a-single-dream/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Exploring Abdominal Massage Techniques for Health and Wellness Benefits
+POST ID: 2572
+SLUG: abdominal-massage-techniques
+FROM: /spa-theory-wellness-beauty-blog/abdominal-massage-techniques
+TO: http://spa-theory.local/blog/abdominal-massage-techniques/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: All About Henna
+POST ID: 2573
+SLUG: all-about-henna
+FROM: /spa-theory-wellness-beauty-blog/all-about-henna
+TO: http://spa-theory.local/blog/all-about-henna/
+LINKS COUNT: 0
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Alyshah Vishram Lalani: Female Founder, Entrepreneur, Wellness Warrior
+POST ID: 2574
+SLUG: alyshah-vishram-lalani-female-founder-entrepreneur-wellness-warrior
+FROM: /spa-theory-wellness-beauty-blog/alyshah-vishram-lalani-female-founder-entrepreneur-wellness-warrior
+TO: http://spa-theory.local/blog/alyshah-vishram-lalani-female-founder-entrepreneur-wellness-warrior/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Anma Massage: What You Need To Know
+POST ID: 2575
+SLUG: anma-massage
+FROM: /spa-theory-wellness-beauty-blog/anma-massage
+TO: http://spa-theory.local/blog/anma-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Are Massages Tax Deductible? Things to Know
+POST ID: 2576
+SLUG: are-massages-tax-deductible
+FROM: /spa-theory-wellness-beauty-blog/are-massages-tax-deductible
+TO: http://spa-theory.local/blog/are-massages-tax-deductible/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Aromatherapy Massage: What are the Benefits?
+POST ID: 2577
+SLUG: aromatherapy-massage
+FROM: /spa-theory-wellness-beauty-blog/aromatherapy-massage
+TO: http://spa-theory.local/blog/aromatherapy-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Ashiatsu Massage: What You Need To Know
+POST ID: 2578
+SLUG: ashiatsu-massage
+FROM: /spa-theory-wellness-beauty-blog/ashiatsu-massage
+TO: http://spa-theory.local/blog/ashiatsu-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory: </em>Full-Service Spa at Home
+POST ID: 2579
+SLUG: at-home-spa
+FROM: /spa-theory-wellness-beauty-blog/at-home-spa
+TO: http://spa-theory.local/blog/at-home-spa/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
