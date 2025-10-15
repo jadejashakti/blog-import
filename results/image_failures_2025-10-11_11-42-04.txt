@@ -1,6 +1,0 @@
-IMAGE IMPORT FAILURES REPORT
-Generated: 2025-10-11 11:42:04
-Total Failures: 0
-================================================================================
-
-No image import failures!

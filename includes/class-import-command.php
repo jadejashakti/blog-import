@@ -152,6 +152,7 @@ class BlogPostImporter
 
 		foreach ($xml->channel->item as $item) {
 
+
 			if ($processed >= $this->limit) {
 				break;
 			}
@@ -166,9 +167,11 @@ class BlogPostImporter
 				}
 				$post_data = $this->extract_post_data($item, $namespaces);
 
+				error_log(print_r($post_data, true));
 				// Analyze links in content
 				$links               = $this->analyze_post_links($post_data);
 				$this->link_report[] = $links;
+				error_log('post slug: ' . $post_data['slug']);
 
 				WP_CLI::line(sprintf('Processing %d/%d: %s', $processed + 1, $this->limit, $post_data['title']));
 
@@ -386,8 +389,7 @@ class BlogPostImporter
 		$wp        = $item->children($namespaces['wp']);
 		$post_type = (string) $wp->post_type;
 		$status    = (string) $wp->status;
-		error_log($post_type . '----' . $status);
-		return ('post' === $post_type && 'publish' === $status);
+		return ('post' === $post_type);
 	}
 
 	private function extract_post_data($item, $namespaces)
@@ -436,20 +438,24 @@ class BlogPostImporter
 	{
 		$author_id = $this->get_or_create_author($post_data['author']);
 
+		if (empty($post_data['content']) || empty($post_data['title'])) {
+			$this->log_error('Post content is empty for: ' . $post_data['title']);
+			return false;
+		}
 		// Process content images and links
-		error_log('*******************************');
-		error_log('ORIGINAL CONTENT: ' . print_r($post_data['content'], true));
-		error_log(' ');
-		error_log(' ################################################');
-		error_log(' ');
+		// error_log('*******************************');
+		// error_log('ORIGINAL CONTENT: ' . print_r($post_data['content'], true));
+		// error_log(' ');
+		// error_log(' ################################################');
+		// error_log(' ');
 
 
 		$processed_content = $this->process_content_images($post_data['content'], $post_data['featured_image_id']);
 		$processed_content = $this->process_content_links($processed_content);
 		$processed_content = $this->convert_html_to_blocks($processed_content);
-		error_log('MODIFIED CONTENT: ' . print_r($processed_content, true));
-		error_log('');
-		error_log('');
+		// error_log('MODIFIED CONTENT: ' . print_r($processed_content, true));
+		// error_log('');
+		// error_log('');
 
 		$post_args = array(
 			'post_title'   => $post_data['title'],
@@ -457,7 +463,7 @@ class BlogPostImporter
 			'post_excerpt' => $post_data['excerpt'],
 			'post_name'    => $post_data['slug'],
 			'post_date'    => $post_data['date'],
-			'post_status'  => 'publish',
+			'post_status'  => $post_data['status'],
 			'post_type'    => 'blog',
 			'post_author'  => $author_id,
 		);
