@@ -29,6 +29,12 @@ wp blog-import --no-dry-run --limit=10
 wp blog-import --no-dry-run --limit=999999
 ```
 
+**Offset(skips number of blogs from 0):**
+```bash
+wp blog-import --no-dry-run --limit=10 --offset=10
+```
+
+
 ## What It Does
 
 - Imports posts from XML to `blog` custom post type
