@@ -167,7 +167,7 @@ class BlogPostImporter
 				}
 				$post_data = $this->extract_post_data($item, $namespaces);
 
-				error_log(print_r($post_data, true));
+				// error_log(print_r($post_data, true));
 				// Analyze links in content
 				$links               = $this->analyze_post_links($post_data);
 				$this->link_report[] = $links;
@@ -443,19 +443,35 @@ class BlogPostImporter
 			return false;
 		}
 		// Process content images and links
-		// error_log('*******************************');
-		// error_log('ORIGINAL CONTENT: ' . print_r($post_data['content'], true));
-		// error_log(' ');
-		// error_log(' ################################################');
-		// error_log(' ');
+		error_log('*******************************');
+		error_log('ORIGINAL CONTENT: ' . print_r($post_data['content'], true));
+		error_log(' ');
+		error_log(' ################################################');
+		error_log(' ');
 
 
 		$processed_content = $this->process_content_images($post_data['content'], $post_data['featured_image_id']);
 		$processed_content = $this->process_content_links($processed_content);
+		list($faqs, $processed_content) = $this->extract_faq_data($processed_content);
+
+		if (!empty($faqs)) {
+			$faq_block = $this->generate_custom_faq_block($faqs);
+
+			// Remove FAQ heading + leftover FAQ section safely
+			$pattern = '/
+        (<h[1-6][^>]*>                       # capture starting heading
+        [^<]*?(?:FAQs?|Frequently\s*Asked\s*Questions)[^<]* 
+        <\/h[1-6]>)                          
+        [\s\S]*?                              
+        (?=(<h[1-6][^>]*>(?![^<]*(?:FAQs?|Frequently\s*Asked\s*Questions))|<!--\s*wp:heading|$))
+    /ix';
+
+			$processed_content = preg_replace($pattern, $faq_block, $processed_content, 1);
+		}
 		$processed_content = $this->convert_html_to_blocks($processed_content);
-		// error_log('MODIFIED CONTENT: ' . print_r($processed_content, true));
-		// error_log('');
-		// error_log('');
+		error_log('MODIFIED CONTENT: ' . print_r($processed_content, true));
+		error_log('');
+		error_log('');
 
 		$post_args = array(
 			'post_title'   => $post_data['title'],
@@ -532,6 +548,178 @@ class BlogPostImporter
 		}
 		return $content;
 	}
+	private function extract_faq_data($content)
+	{
+
+
+		// Step 1: Match the "Frequently Asked Questions" section
+		if (preg_match('/<h[2-3][^>]*>\s*(?:Frequently Asked Questions|FAQs)[^<]*<\/h[2-3]>(.*)/is', $content, $matches)) {
+			$faq_section = $matches[1];
+			error_log("faq found");
+
+			// Step 2: Extract questions and answers
+			preg_match_all(
+				'~
+	(?:<(?:p|h[1-6])[^>]*>\s*(?:&nbsp;|<br\s*\/?>)*\s*<\/(?:p|h[1-6])>\s*)*       # skip empty tags
+	<(?:p|h[1-6])[^>]*>\s*(?:\d+\.?\s*)?(.+?\?)\s*<\/(?:p|h[1-6])>\s*             # question (ends with ?)
+	(?:<(?:p|h[1-6])[^>]*>\s*(?:&nbsp;|<br\s*\/?>)*\s*<\/(?:p|h[1-6])>\s*)*       # skip empty tags
+	<(?P<tag>p|ul)[^>]*>\s*(?P<answer>.*?)\s*<\/(?P=tag)>                        # answer (recursive-safe)
+	~xis',
+				$faq_section,
+				$qa_matches,
+				PREG_SET_ORDER
+			);
+			error_log("FAQ section HTML:\n" . substr($faq_section, 0, 1000));
+			$faqs = [];
+
+
+			error_log("qa matches " . print_r($qa_matches, true));
+			foreach ($qa_matches as $qa) {
+				$qa_html = $qa[0];
+				$question = trim(wp_strip_all_tags($qa[1]));
+				if ('ul' === $qa[2]) {
+					// Remove <p> tags
+					$answer_inner = preg_replace('/<\/?p[^>]*>/', '', $qa[3]);
+
+					// Convert <li> items to bullet list lines with newlines
+					$answer_inner = preg_replace('/<\/li>\s*/i', '<br>', $answer_inner);
+					$answer_inner = preg_replace('/<li[^>]*>/', "• ", $answer_inner);
+
+					// Decode entities
+					$answer_inner = html_entity_decode($answer_inner, ENT_QUOTES, 'UTF-8');
+					$allowed_tags = [
+						'br' => [],
+					];
+					// Strip all HTML tags — only keep newlines
+					$answer = trim(wp_kses($answer_inner, $allowed_tags));
+
+					// Remove any trailing newlines
+					$answer = preg_replace("/\n+$/", '', $answer);
+				} else {
+					// For <p> content
+					$answer_inner = html_entity_decode($qa[3], ENT_QUOTES, 'UTF-8');
+					$answer = trim(wp_strip_all_tags($answer_inner));
+				}
+				$answer = str_replace(['"', "'"], '', $answer);
+				if ($question && $answer) {
+					$faqs[] = [
+						'question' => $question,
+						'answer'   => $answer,
+					];
+					$content = str_replace($qa_html, '', $content);
+				}
+			}
+
+
+			// Step 4: Bold-style FAQs (e.g. <strong>Question?</strong>)
+			preg_match_all(
+				'/<strong>(.+?\?)<\/strong>\s*<\/p>\s*(?:<p[^>]*>|<br\s*\/?>)*\s*(.+?)(?=<p|\Z)/is',
+				$content,
+				$bold_matches,
+				PREG_SET_ORDER
+			);
+			error_log("bold matches " . print_r($bold_matches, true));
+			foreach ($bold_matches as $qa) {
+				$question = trim(wp_strip_all_tags($qa[1]));
+				$answer = trim(wp_strip_all_tags($qa[2]));
+				if ($question && $answer) {
+					$faqs[] = [
+						'question' => $question,
+						'answer'   => $answer,
+					];
+				}
+			}
+			error_log("faq data " . print_r($faqs, true));
+			return [$faqs, $content]; // return both
+		}
+
+		return [[], $content];
+	}
+	private function generate_custom_faq_block($faqs)
+	{
+		if (empty($faqs)) return '';
+
+		$questions_json = [];
+		foreach ($faqs as $index => $faq) {
+			$questions_json[] = [
+				'id' => 'faq-question-' . time() . $index,
+				'title' => $faq['question'],
+				'content' => $faq['answer'],
+				'visible' => true
+			];
+		}
+
+		// $questions_attr = json_encode($questions_json, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+		$block_attrs = [
+			'questions' => $questions_json,
+			'titleCssClasses' => 'services-question',
+			'contentCssClasses' => 'faq-answer',
+			'className' => 'faq-rank-math'
+		];
+		$block_attrs_json =  json_encode($block_attrs, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+
+
+
+		$block  = '<!-- wp:group {"metadata":{"categories":["spatheory-patterns"],"patternName":"spatheory/faq-section","name":"faq Pattern"},"className":"faq-section section-padding","layout":{"type":"default"}} -->' . "\n";
+		$block .= '<div class="wp-block-group faq-section section-padding">';
+
+		$block .= '<!-- wp:group {"className":"container p-0","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group container p-0">';
+
+		$block .= '<!-- wp:group {"className":"section-header common-padding pt-0 section-padding-rl-0","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group section-header common-padding pt-0 section-padding-rl-0">';
+
+		$block .= '<!-- wp:group {"className":"row justify-content-center","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group row justify-content-center">';
+
+		$block .= '<!-- wp:group {"className":"col-lg-8","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group col-lg-8">';
+
+		$block .= '<!-- wp:group {"className":"section-header__content","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group section-header__content">';
+
+		$block .= '<!-- wp:heading {"textAlign":"center"} -->';
+		$block .= '<h2 class="wp-block-heading has-text-align-center">Frequently Asked <em>Questions</em></h2>';
+		$block .= '<!-- /wp:heading -->';
+
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div><!-- /wp:group -->';
+
+
+		$block .= '<!-- wp:group {"className":"faq-section__inner","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group faq-section__inner">';
+
+		$block .= '<!-- wp:group {"className":"row justify-content-center","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group row justify-content-center">';
+
+		$block .= '<!-- wp:group {"className":"col-lg-10 col-12","layout":{"type":"default"}} -->';
+		$block .= '<div class="wp-block-group col-lg-10 col-12">';
+
+		$block .= "\n<!-- wp:rank-math/faq-block {$block_attrs_json} -->\n";
+		$block .= '<div class="wp-block-rank-math-faq-block faq-rank-math">';
+
+		foreach ($faqs as $faq) {
+			$block .= '<div class="rank-math-faq-item">';
+			$block .= '<h3 class="rank-math-question">' . $faq['question'] . '</h3>';
+			$block .= '<div class="rank-math-answer">' . nl2br($faq['answer']) . '</div>';
+			$block .= '</div>';
+		}
+
+		$block .= '</div><!-- /wp:rank-math/faq-block -->';
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div><!-- /wp:group -->';
+		$block .= '</div>';
+		$block .= '<!-- /wp:group -->' . "\n";
+
+		error_log("FAQ BLOCK: " . $block);
+
+		return $block;
+	}
+
 
 	private function import_image($image_url, $post_id = 0)
 	{
@@ -656,24 +844,47 @@ class BlogPostImporter
 		$content = str_replace('</p>', "</p>\n<!-- /wp:paragraph -->\n", $content);
 
 		// 2. Headings (H1-H6)
-		$content = preg_replace('/<h([1-6])[^>]*>/', "\n<!-- wp:heading {\"level\":$1} -->\n<h$1>", $content);
-		$content = preg_replace('/<\/h([1-6])>/', "</h$1>\n<!-- /wp:heading -->\n", $content);
+		$content = preg_replace_callback(
+			'/<h([1-6])(?![^>]*class="[^"]*rank-math-question[^"]*")[^>]*>.*?<\/h\1>/si',
+			function ($m) {
+				$cleanHeading = preg_replace('/\s*(class|style)="[^"]*"/i', '', $m[0]);
+
+				// Return with WordPress block comment wrapper
+				return "\n<!-- wp:heading {\"level\":" . $m[1] . "} -->\n" . $cleanHeading . "\n<!-- /wp:heading -->\n";
+			},
+			$content
+		);
+		$content = preg_replace('/<!-- wp:heading[^>]*-->\s*<!-- wp:heading[^>]*-->(.*?)<!-- \/wp:heading -->\s*<!-- \/wp:heading -->/si', '<!-- wp:heading {"textAlign":"center"} -->$1<!-- /wp:heading -->', $content);
+		$content = preg_replace('/<h([1-6])[^>]*>\s*<br\s*\/?>\s*/i', '<h$1>', $content);
+
 
 		// 3. Images
 		$content = preg_replace('/<img([^>]*)>/', "\n<!-- wp:image -->\n<figure class=\"wp-block-image\"><img$1></figure>\n<!-- /wp:image -->\n", $content);
 
-		// 4. Lists (UL/OL) - handle data-rte-list attributes
-		// Lists (UL/OL)
+
+
+		// For everything else (outside Rank Math)
 		$content = preg_replace('/<ul[^>]*>/', "\n<!-- wp:list -->\n<ul>", $content);
 		$content = str_replace('</ul>', "</ul>\n<!-- /wp:list -->\n", $content);
 		$content = preg_replace('/<ol[^>]*>/', "\n<!-- wp:list {\"ordered\":true} -->\n<ol>", $content);
 		$content = str_replace('</ol>', "</ol>\n<!-- /wp:list -->\n", $content);
 
-		// Remove Paragraph from LI tag
-		$content = preg_replace('/<li>\n<!-- wp:paragraph -->\n<p>/', '<li>', $content);
-		$content = preg_replace('/<\/p>\n<!-- \/wp:paragraph -->\n<\/li>/', '</li>', $content);
+		// Clean up LI paragraphs globally
+		$content = preg_replace('/<li>\s*<!-- wp:paragraph -->\s*<p>/', '<li>', $content);
+		$content = preg_replace('/<\/p>\s*<!-- \/wp:paragraph -->\s*<\/li>/', '</li>', $content);
+		$content = preg_replace_callback(
+			'/<!-- wp:group[^>]*spatheory\/faq-section.*?<!-- \/wp:rank-math\/faq-block -->/is',
+			function ($match) {
+				$faq_block = $match[0];
 
+				// Remove all wp:list comments (escaped or unescaped, opening or closing)
+				$faq_block = preg_replace('/\\\\?<!--\s*wp:list[^>]*-->/i', '', $faq_block);
+				$faq_block = preg_replace('/\\\\?<!--\s*\/wp:list\s*-->/', '', $faq_block);
 
+				return $faq_block;
+			},
+			$content
+		);
 		// 5. Blockquotes
 		$content = preg_replace('/<blockquote[^>]*>/', "\n<!-- wp:quote -->\n<blockquote>", $content);
 		$content = str_replace('</blockquote>', "</blockquote>\n<!-- /wp:quote -->\n", $content);
@@ -685,7 +896,7 @@ class BlogPostImporter
 			$content
 		);
 		$content = preg_replace(
-			'/<\/p><!-- \/wp:paragraph -->\n<\/blockquote>\n<!-- \/wp:quote -->/',
+			'/<\/p>\n?<!-- \/wp:paragraph -->\n<\/blockquote>\n<!-- \/wp:quote -->/',
 			"</p>\n<!-- /wp:paragraph -->\n",
 			$content
 		);
@@ -711,10 +922,39 @@ class BlogPostImporter
 			// Wrap in clean Gutenberg block, no extra spaces/newlines
 			return '<!-- wp:table --><figure class="wp-block-table">' . $table . '</figure><!-- /wp:table -->';
 		}, $content);
+		// 9. Temporarily extract FAQ blocks
+		$faq_blocks = [];
+		$content = preg_replace_callback(
+			'/<!-- wp:group[^>]*spatheory\/faq-section.*?<!-- \/wp:group -->/is',
+			function ($matches) use (&$faq_blocks) {
+				$placeholder = '___FAQ_BLOCK_' . count($faq_blocks) . '___';
+				$faq_blocks[$placeholder] = $matches[0];
+				return $placeholder;
+			},
+			$content
+		);
 
-		// 9. Remove problematic divs instead of converting to groups
+		// 🔹 Remove problematic divs only OUTSIDE FAQ blocks
+		foreach ($faq_blocks as $placeholder => $faq_block) {
+			// temporarily protect placeholders
+			$content = str_replace($placeholder, "%%%{$placeholder}%%%", $content);
+		}
+
+		// Clean outside content safely
 		$content = preg_replace('/<div[^>]*class="[^"]*sqs-html-content[^"]*"[^>]*>/', '', $content);
-		$content = str_replace('</div>', '', $content);
+		$content = preg_replace('/<\/div>\s*(?=<!--\s*wp:|$)/i', '', $content);
+		$content = preg_replace(
+			'/<\/div>\s*(?=%%%___FAQ_BLOCK_\d+___%%%)/i',
+			'',
+			$content
+		);
+
+
+
+		// Restore placeholders
+		foreach ($faq_blocks as $placeholder => $faq_block) {
+			$content = str_replace("%%%{$placeholder}%%%", $faq_block, $content);
+		}
 
 		// 10. Videos/Embeds
 		$content = preg_replace('/<iframe[^>]*>.*?<\/iframe>/s', "\n<!-- wp:html -->\n$0\n<!-- /wp:html -->\n", $content);
@@ -722,10 +962,11 @@ class BlogPostImporter
 		// 11. Inline formatting elements (preserve as-is)
 		$content = str_replace(['<b>', '</b>'], ['<strong>', '</strong>'], $content);
 		$content = str_replace(['<i>', '</i>'], ['<em>', '</em>'], $content);
-		$content = str_replace('<br>', '<br />', $content);
-		$content = str_replace('<hr>', '<hr />', $content);
+		$content = str_replace('<br />', '<br>', $content);
+		// $content = str_replace('<hr>', '<hr/>', $content);
 
 		// Clean up extra newlines and empty blocks
+		$content = preg_replace('/<\/div>\s*$/i', '', $content);
 		$content = preg_replace('/\n{3,}/', "\n\n", $content);
 		$content = preg_replace('/\s{3,}/', " ", $content);
 		$content = preg_replace('/<!-- wp:paragraph -->\s*<p>\s*<\/p>\s*<!-- \/wp:paragraph -->/', '', $content);
