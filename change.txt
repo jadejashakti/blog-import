@@ -2,6 +2,7 @@
 
 embracing-the-last-day-of-vacation
 mobile-waxing-services
+the-best-stretches-for-lower-back-pain-how-massage-therapy-can-help/
 
 //inner ul empty li 
 
@@ -11,3 +12,8 @@ ultimate-couples-spa-guide
 //video tag fix
 spa-theory-featured-on-bravo-show-married-to-medicine
 spa-theory-featured-on-bravos-married-to-medicine
+
+
+check
+/occipital-neuralgia-massage/
+hot-stone-massage/

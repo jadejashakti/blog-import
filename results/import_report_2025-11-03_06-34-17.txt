@@ -1,0 +1,2282 @@
+BLOG IMPORT MAPPING REPORT
+Generated: 2025-11-03 06:34:17
+Mode: REAL IMPORT
+================================================================================
+
+STATUS: SUCCESS
+TITLE: 10 Science - Backed Ways to Naturally Lower Cortisol and Reduce Stress
+POST ID: 11354
+SLUG: 10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+FROM: /spa-theory-wellness-beauty-blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress
+TO: http://spa-theory.local/blog/10-science-backed-ways-to-naturally-lower-cortisol-and-reduce-stress/
+LINKS COUNT: 12
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 2 Sisters, 1 Company, A Single Dream
+POST ID: 11355
+SLUG: 2-sisters-1-company-a-single-dream
+FROM: /spa-theory-wellness-beauty-blog/2-sisters-1-company-a-single-dream
+TO: http://spa-theory.local/blog/2-sisters-1-company-a-single-dream/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: FAILED
+TITLE: 
+POST ID: N/A
+SLUG: 99agmj1u9nm4h2vtqv9fxzgb4lgcu6-T5lqa
+FROM: /spa-theory-wellness-beauty-blog/99agmj1u9nm4h2vtqv9fxzgb4lgcu6-T5lqa
+TO: N/A
+LINKS COUNT: 0
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Exploring Abdominal Massage Techniques for Health and Wellness Benefits
+POST ID: 11356
+SLUG: abdominal-massage-techniques
+FROM: /spa-theory-wellness-beauty-blog/abdominal-massage-techniques
+TO: http://spa-theory.local/blog/abdominal-massage-techniques/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: All About Henna
+POST ID: 11357
+SLUG: all-about-henna
+FROM: /spa-theory-wellness-beauty-blog/all-about-henna
+TO: http://spa-theory.local/blog/all-about-henna/
+LINKS COUNT: 0
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Alyshah Vishram Lalani: Female Founder, Entrepreneur, Wellness Warrior
+POST ID: 11358
+SLUG: alyshah-vishram-lalani-female-founder-entrepreneur-wellness-warrior
+FROM: /spa-theory-wellness-beauty-blog/alyshah-vishram-lalani-female-founder-entrepreneur-wellness-warrior
+TO: http://spa-theory.local/blog/alyshah-vishram-lalani-female-founder-entrepreneur-wellness-warrior/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Anma Massage: What You Need To Know
+POST ID: 11359
+SLUG: anma-massage
+FROM: /spa-theory-wellness-beauty-blog/anma-massage
+TO: http://spa-theory.local/blog/anma-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Best Anti Cellulite Massage Oil: Reviews, Benefits &amp; How to Use
+POST ID: 11360
+SLUG: anti-cellulite-massage-oil
+FROM: /spa-theory-wellness-beauty-blog/anti-cellulite-massage-oil
+TO: http://spa-theory.local/blog/anti-cellulite-massage-oil/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Are Massages Tax Deductible? Things to Know
+POST ID: 11361
+SLUG: are-massages-tax-deductible
+FROM: /spa-theory-wellness-beauty-blog/are-massages-tax-deductible
+TO: http://spa-theory.local/blog/are-massages-tax-deductible/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Aromatherapy Massage: What are the Benefits?
+POST ID: 11362
+SLUG: aromatherapy-massage
+FROM: /spa-theory-wellness-beauty-blog/aromatherapy-massage
+TO: http://spa-theory.local/blog/aromatherapy-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Ashiatsu Massage: What You Need To Know
+POST ID: 11363
+SLUG: ashiatsu-massage
+FROM: /spa-theory-wellness-beauty-blog/ashiatsu-massage
+TO: http://spa-theory.local/blog/ashiatsu-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory: </em>Full-Service Spa at Home
+POST ID: 11364
+SLUG: at-home-spa
+FROM: /spa-theory-wellness-beauty-blog/at-home-spa
+TO: http://spa-theory.local/blog/at-home-spa/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: At Home Spa Must Haves
+POST ID: 11365
+SLUG: at-home-spa-must-haves
+FROM: /spa-theory-wellness-beauty-blog/at-home-spa-must-haves
+TO: http://spa-theory.local/blog/at-home-spa-must-haves/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Enhanced Athletic Recovery with Sport and Therapeutic Massage
+POST ID: 11366
+SLUG: athletic-recovery-sports-therapeutic-massage
+FROM: /spa-theory-wellness-beauty-blog/athletic-recovery-sports-therapeutic-massage
+TO: http://spa-theory.local/blog/athletic-recovery-sports-therapeutic-massage/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Ayurvedic Massage: A Complete Guide
+POST ID: 11367
+SLUG: ayurvedic-massage
+FROM: /spa-theory-wellness-beauty-blog/ayurvedic-massage
+TO: http://spa-theory.local/blog/ayurvedic-massage/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Baby Massage: How To Guide
+POST ID: 11368
+SLUG: baby-massage-how-to-guide
+FROM: /spa-theory-wellness-beauty-blog/baby-massage-how-to-guide
+TO: http://spa-theory.local/blog/baby-massage-how-to-guide/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Balinese Massage: Everything You Need To Know
+POST ID: 11369
+SLUG: balinese-massage
+FROM: /spa-theory-wellness-beauty-blog/balinese-massage
+TO: http://spa-theory.local/blog/balinese-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Bamboo Massage: What You Need To Know
+POST ID: 11370
+SLUG: bamboo-massage
+FROM: /spa-theory-wellness-beauty-blog/bamboo-massage
+TO: http://spa-theory.local/blog/bamboo-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: BBL Lymphatic Drainage Massage for Faster Recovery &amp; Results
+POST ID: 11371
+SLUG: bbl-lymphatic-drainage-massage
+FROM: /spa-theory-wellness-beauty-blog/bbl-lymphatic-drainage-massage
+TO: http://spa-theory.local/blog/bbl-lymphatic-drainage-massage/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Benefits of Breast Massage for Breastfeeding Moms
+POST ID: 11372
+SLUG: benefits-of-breast-massage-for-breastfeeding-moms
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-breast-massage-for-breastfeeding-moms
+TO: http://spa-theory.local/blog/benefits-of-breast-massage-for-breastfeeding-moms/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Unlocking the Benefits of Chair Massage: Everything You Need to Know
+POST ID: 11373
+SLUG: benefits-of-chair-massage
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-chair-massage
+TO: http://spa-theory.local/blog/benefits-of-chair-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 8 Key Benefits of Hydromassage
+POST ID: 11374
+SLUG: benefits-of-hydromassage
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-hydromassage
+TO: http://spa-theory.local/blog/benefits-of-hydromassage/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Exploring the Benefits of Massage After a Heart Attack
+POST ID: 11375
+SLUG: benefits-of-massage-after-a-heart-attack
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-massage-after-a-heart-attack
+TO: http://spa-theory.local/blog/benefits-of-massage-after-a-heart-attack/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Benefits of Massage for Women: Relaxation and Wellness
+POST ID: 11376
+SLUG: benefits-of-massage-for-women
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-massage-for-women
+TO: http://spa-theory.local/blog/benefits-of-massage-for-women/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 5 Benefits of Prenatal Massage
+POST ID: 11377
+SLUG: benefits-of-prenatal-massage
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-prenatal-massage
+TO: http://spa-theory.local/blog/benefits-of-prenatal-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Benefits of Regular Massages
+POST ID: 11378
+SLUG: benefits-of-regular-massages
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-regular-massages
+TO: http://spa-theory.local/blog/benefits-of-regular-massages/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Main Benefits of Scalp Massage
+POST ID: 11379
+SLUG: benefits-of-scalp-massage
+FROM: /spa-theory-wellness-beauty-blog/benefits-of-scalp-massage
+TO: http://spa-theory.local/blog/benefits-of-scalp-massage/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Atlanta’s Best At Home Spa
+POST ID: 11380
+SLUG: best-at-home-spa
+FROM: /spa-theory-wellness-beauty-blog/best-at-home-spa
+TO: http://spa-theory.local/blog/best-at-home-spa/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Best Massage for Neck and Shoulder Pain
+POST ID: 11381
+SLUG: best-massage-for-neck-and-shoulder-pain
+FROM: /spa-theory-wellness-beauty-blog/best-massage-for-neck-and-shoulder-pain
+TO: http://spa-theory.local/blog/best-massage-for-neck-and-shoulder-pain/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 5 Best Massage Oils for Couples
+POST ID: 11382
+SLUG: best-massage-oil-for-couples
+FROM: /spa-theory-wellness-beauty-blog/best-massage-oil-for-couples
+TO: http://spa-theory.local/blog/best-massage-oil-for-couples/
+LINKS COUNT: 21
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Comfort and Care: Exploring the Best Prenatal Massage Positions
+POST ID: 11383
+SLUG: best-prenatal-massage-positions
+FROM: /spa-theory-wellness-beauty-blog/best-prenatal-massage-positions
+TO: http://spa-theory.local/blog/best-prenatal-massage-positions/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Best Way to Combine Yoga and Massage for Healing
+POST ID: 11384
+SLUG: best-way-to-combine-yoga-and-massage-for-healing
+FROM: /spa-theory-wellness-beauty-blog/best-way-to-combine-yoga-and-massage-for-healing
+TO: http://spa-theory.local/blog/best-way-to-combine-yoga-and-massage-for-healing/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Bruising After Deep Tissue Massage: Is It Normal?
+POST ID: 11385
+SLUG: bruising-after-deep-tissue-massage
+FROM: /spa-theory-wellness-beauty-blog/bruising-after-deep-tissue-massage
+TO: http://spa-theory.local/blog/bruising-after-deep-tissue-massage/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Buccal Massage: A Complete Guide
+POST ID: 11386
+SLUG: buccal-massage
+FROM: /spa-theory-wellness-beauty-blog/buccal-massage
+TO: http://spa-theory.local/blog/buccal-massage/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Butt Massage: Piriformis Relief Techniques &amp; Benefits
+POST ID: 11387
+SLUG: butt-massage
+FROM: /spa-theory-wellness-beauty-blog/butt-massage
+TO: http://spa-theory.local/blog/butt-massage/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Candle Massage: Everything You Need to Know
+POST ID: 11388
+SLUG: candle-massage
+FROM: /spa-theory-wellness-beauty-blog/candle-massage
+TO: http://spa-theory.local/blog/candle-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Carotid Massage: A How To Guide
+POST ID: 11389
+SLUG: carotid-massage-how-to-guide
+FROM: /spa-theory-wellness-beauty-blog/carotid-massage-how-to-guide
+TO: http://spa-theory.local/blog/carotid-massage-how-to-guide/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: CBD Massage: A Journey to Relaxation and Pain Relief
+POST ID: 11390
+SLUG: cbd-massage
+FROM: /spa-theory-wellness-beauty-blog/cbd-massage
+TO: http://spa-theory.local/blog/cbd-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: CFS Massage: Restoring Energy and Vitality
+POST ID: 11391
+SLUG: cfs-massage
+FROM: /spa-theory-wellness-beauty-blog/cfs-massage
+TO: http://spa-theory.local/blog/cfs-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Chinese Massage: Everything You Need to Know
+POST ID: 11392
+SLUG: chinese-massage-everything-you-need-to-know
+FROM: /spa-theory-wellness-beauty-blog/chinese-massage-everything-you-need-to-know
+TO: http://spa-theory.local/blog/chinese-massage-everything-you-need-to-know/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Chiropractic Massage Explained
+POST ID: 11393
+SLUG: chiropractic-massage-explained
+FROM: /spa-theory-wellness-beauty-blog/chiropractic-massage-explained
+TO: http://spa-theory.local/blog/chiropractic-massage-explained/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Choosing the Perfect Massage Therapist
+POST ID: 11394
+SLUG: choosing-the-perfect-massage-therapist
+FROM: /spa-theory-wellness-beauty-blog/choosing-the-perfect-massage-therapist
+TO: http://spa-theory.local/blog/choosing-the-perfect-massage-therapist/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Cold Stone Massage Therapy: Techniques and Benefits
+POST ID: 11395
+SLUG: cold-stone-massage
+FROM: /spa-theory-wellness-beauty-blog/cold-stone-massage
+TO: http://spa-theory.local/blog/cold-stone-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Combat Seasonal Allergies with Massage Therapy
+POST ID: 11396
+SLUG: combat-seasonal-allergies-with-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/combat-seasonal-allergies-with-massage-therapy
+TO: http://spa-theory.local/blog/combat-seasonal-allergies-with-massage-therapy/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Combating Holiday Stress
+POST ID: 11397
+SLUG: combating-holiday-stress
+FROM: /spa-theory-wellness-beauty-blog/combating-holiday-stress
+TO: http://spa-theory.local/blog/combating-holiday-stress/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Corporate Chair Massage: The #1 Wellness Benefit Every Office Needs
+POST ID: 11398
+SLUG: corporate-chair-massage-workplace-benefits
+FROM: /spa-theory-wellness-beauty-blog/corporate-chair-massage-workplace-benefits
+TO: http://spa-theory.local/blog/corporate-chair-massage-workplace-benefits/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Corporate Massage: Boosting Employee Morale
+POST ID: 11399
+SLUG: corporate-massage-boosting-employee-morale
+FROM: /spa-theory-wellness-beauty-blog/corporate-massage-boosting-employee-morale
+TO: http://spa-theory.local/blog/corporate-massage-boosting-employee-morale/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Couples Deep Tissue Massage: What to Expect &amp; How to Book
+POST ID: 11400
+SLUG: couples-deep-tissue-massage-guide
+FROM: /spa-theory-wellness-beauty-blog/couples-deep-tissue-massage-guide
+TO: http://spa-theory.local/blog/couples-deep-tissue-massage-guide/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 10 Benefits of Couples Massage&nbsp;
+POST ID: 11401
+SLUG: couples-massage
+FROM: /spa-theory-wellness-beauty-blog/couples-massage
+TO: http://spa-theory.local/blog/couples-massage/
+LINKS COUNT: 11
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Couples Massage Near Me – Atlanta, Austin, Miami, Houston &amp; West Palm Beach
+POST ID: 11402
+SLUG: couples-massage-near-me
+FROM: /spa-theory-wellness-beauty-blog/couples-massage-near-me
+TO: http://spa-theory.local/blog/couples-massage-near-me/
+LINKS COUNT: 10
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Couples Massage Near Me: The Ultimate Guide to Relaxing Together at Home
+POST ID: 11403
+SLUG: couples-massage-near-me-the-ultimate-guide-to-relaxing-together-at-home
+FROM: /spa-theory-wellness-beauty-blog/couples-massage-near-me-the-ultimate-guide-to-relaxing-together-at-home
+TO: http://spa-theory.local/blog/couples-massage-near-me-the-ultimate-guide-to-relaxing-together-at-home/
+LINKS COUNT: 19
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What Is a Cranial Sacral Massage? | Advanced CranioSacral Therapy Explained
+POST ID: 11404
+SLUG: cranial-sacral-massage
+FROM: /spa-theory-wellness-beauty-blog/cranial-sacral-massage
+TO: http://spa-theory.local/blog/cranial-sacral-massage/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Creating the Best Spa Day at Home
+POST ID: 11405
+SLUG: creating-the-best-spa-day-at-home
+FROM: /spa-theory-wellness-beauty-blog/creating-the-best-spa-day-at-home
+TO: http://spa-theory.local/blog/creating-the-best-spa-day-at-home/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Cupping Therapy in Massage: Ancient Practice, Modern Benefits
+POST ID: 11406
+SLUG: cupping-therapy-in-massage
+FROM: /spa-theory-wellness-beauty-blog/cupping-therapy-in-massage
+TO: http://spa-theory.local/blog/cupping-therapy-in-massage/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Dangers of Deep Tissue Massage
+POST ID: 11407
+SLUG: dangers-of-deep-tissue-massage
+FROM: /spa-theory-wellness-beauty-blog/dangers-of-deep-tissue-massage
+TO: http://spa-theory.local/blog/dangers-of-deep-tissue-massage/
+LINKS COUNT: 11
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Does Deep Tissue Massage Help Sciatica? A Complete Guide
+POST ID: 11408
+SLUG: deep-tissue-massage-sciatica-relief-techniques
+FROM: /spa-theory-wellness-beauty-blog/deep-tissue-massage-sciatica-relief-techniques
+TO: http://spa-theory.local/blog/deep-tissue-massage-sciatica-relief-techniques/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Deep Tissue Massage Techniques for Beginners
+POST ID: 11409
+SLUG: deep-tissue-massage-techniques
+FROM: /spa-theory-wellness-beauty-blog/deep-tissue-massage-techniques
+TO: http://spa-theory.local/blog/deep-tissue-massage-techniques/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Deep Tissue Massage Techniques with Benefits — Your Essential Guide
+POST ID: 11410
+SLUG: deep-tissue-massage-techniques-benefits-guide
+FROM: /spa-theory-wellness-beauty-blog/deep-tissue-massage-techniques-benefits-guide
+TO: http://spa-theory.local/blog/deep-tissue-massage-techniques-benefits-guide/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Deep Tissue vs. Swedish Massage and Their Impact on Tension Release
+POST ID: 11411
+SLUG: deep-tissue-vs-swedish-massage
+FROM: /spa-theory-wellness-beauty-blog/deep-tissue-vs-swedish-massage
+TO: http://spa-theory.local/blog/deep-tissue-vs-swedish-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 6 Disadvantages of Swedish Massage
+POST ID: 11412
+SLUG: disadvantages-of-swedish-massage
+FROM: /spa-theory-wellness-beauty-blog/disadvantages-of-swedish-massage
+TO: http://spa-theory.local/blog/disadvantages-of-swedish-massage/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Do Massage Guns Really Work?
+POST ID: 11413
+SLUG: do-massage-guns-work
+FROM: /spa-theory-wellness-beauty-blog/do-massage-guns-work
+TO: http://spa-theory.local/blog/do-massage-guns-work/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Effective Carpal Tunnel Massage Techniques
+POST ID: 11414
+SLUG: effective-carpal-tunnel-massage-techniques
+FROM: /spa-theory-wellness-beauty-blog/effective-carpal-tunnel-massage-techniques
+TO: http://spa-theory.local/blog/effective-carpal-tunnel-massage-techniques/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Effleurage Massage: Everything You Need To Know
+POST ID: 11415
+SLUG: effleurage-massage
+FROM: /spa-theory-wellness-beauty-blog/effleurage-massage
+TO: http://spa-theory.local/blog/effleurage-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Embracing National Gratitude Month
+POST ID: 11416
+SLUG: embracing-national-gratitude-month
+FROM: /spa-theory-wellness-beauty-blog/embracing-national-gratitude-month
+TO: http://spa-theory.local/blog/embracing-national-gratitude-month/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Make the Most of Your Last Day: Embracing the Last Day of Vacation
+POST ID: 11417
+SLUG: embracing-the-last-day-of-vacation
+FROM: /spa-theory-wellness-beauty-blog/embracing-the-last-day-of-vacation
+TO: http://spa-theory.local/blog/embracing-the-last-day-of-vacation/
+LINKS COUNT: 14
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Emotional Wellness During Covid
+POST ID: 11418
+SLUG: emotional-wellness-during-covid
+FROM: /spa-theory-wellness-beauty-blog/emotional-wellness-during-covid
+TO: http://spa-theory.local/blog/emotional-wellness-during-covid/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Essential Oils vs. Carrier Oils: Choosing the Right Blend for Massage Therapy
+POST ID: 11419
+SLUG: essential-oils-vs-carrier-oils
+FROM: /spa-theory-wellness-beauty-blog/essential-oils-vs-carrier-oils
+TO: http://spa-theory.local/blog/essential-oils-vs-carrier-oils/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Eustachian Tube Massage: A Complete Guide
+POST ID: 11420
+SLUG: eustachian-tube-massage
+FROM: /spa-theory-wellness-beauty-blog/eustachian-tube-massage
+TO: http://spa-theory.local/blog/eustachian-tube-massage/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Everything’s Bigger in Texas…and so is Spa Theory
+POST ID: 11421
+SLUG: everythings-bigger-in-texasand-so-is-spa-theory
+FROM: /spa-theory-wellness-beauty-blog/everythings-bigger-in-texasand-so-is-spa-theory
+TO: http://spa-theory.local/blog/everythings-bigger-in-texasand-so-is-spa-theory/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: FAILED
+TITLE: 
+POST ID: N/A
+SLUG: evnmxi8zd1dr34pdn149k7vd20v3cq
+FROM: /spa-theory-wellness-beauty-blog/evnmxi8zd1dr34pdn149k7vd20v3cq
+TO: N/A
+LINKS COUNT: 0
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Exploring 7 Different Types of Massage Oils and Their Benefits
+POST ID: 11422
+SLUG: exploring-different-types-of-massage-oils
+FROM: /spa-theory-wellness-beauty-blog/exploring-different-types-of-massage-oils
+TO: http://spa-theory.local/blog/exploring-different-types-of-massage-oils/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Ultimate Massage &amp; Facial Spa Guide – Purpose, Benefits &amp; Process
+POST ID: 11423
+SLUG: facial-massage-spa
+FROM: /spa-theory-wellness-beauty-blog/facial-massage-spa
+TO: http://spa-theory.local/blog/facial-massage-spa/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Facial Massage: Techniques and Benefits
+POST ID: 11424
+SLUG: facial-massage-techniques-and-benefits
+FROM: /spa-theory-wellness-beauty-blog/facial-massage-techniques-and-benefits
+TO: http://spa-theory.local/blog/facial-massage-techniques-and-benefits/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage or Facial? Which Is Right for You?
+POST ID: 11425
+SLUG: facial-vs-lymphatic-facial-massage
+FROM: /spa-theory-wellness-beauty-blog/facial-vs-lymphatic-facial-massage
+TO: http://spa-theory.local/blog/facial-vs-lymphatic-facial-massage/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Father’s Day Spa Gifts
+POST ID: 11426
+SLUG: fathers-day-spa-gifts
+FROM: /spa-theory-wellness-beauty-blog/fathers-day-spa-gifts
+TO: http://spa-theory.local/blog/fathers-day-spa-gifts/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Foot Massage Pressure Points
+POST ID: 11427
+SLUG: female-foot-massage-pressure-points
+FROM: /spa-theory-wellness-beauty-blog/female-foot-massage-pressure-points
+TO: http://spa-theory.local/blog/female-foot-massage-pressure-points/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Fertility Massage: What Is It and How Does It Work?
+POST ID: 11428
+SLUG: fertility-massage
+FROM: /spa-theory-wellness-beauty-blog/fertility-massage
+TO: http://spa-theory.local/blog/fertility-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Full Body Massage: What Is It and What to Expect
+POST ID: 11429
+SLUG: full-body-massage
+FROM: /spa-theory-wellness-beauty-blog/full-body-massage
+TO: http://spa-theory.local/blog/full-body-massage/
+LINKS COUNT: 9
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Functional Massage Therapy: Everything You Need to Know
+POST ID: 11430
+SLUG: functional-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/functional-massage-therapy
+TO: http://spa-theory.local/blog/functional-massage-therapy/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What Is a Fundal Massage? Complete Guide to Postpartum Uterine Massage
+POST ID: 11431
+SLUG: fundal-massage-postpartum-guide
+FROM: /spa-theory-wellness-beauty-blog/fundal-massage-postpartum-guide
+TO: http://spa-theory.local/blog/fundal-massage-postpartum-guide/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 6 Benefits of Geriatric Massage
+POST ID: 11432
+SLUG: geriatric-massage
+FROM: /spa-theory-wellness-beauty-blog/geriatric-massage
+TO: http://spa-theory.local/blog/geriatric-massage/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Get Better Sleep with a Spa Day
+POST ID: 11433
+SLUG: get-better-sleep-with-a-spa-day
+FROM: /spa-theory-wellness-beauty-blog/get-better-sleep-with-a-spa-day
+TO: http://spa-theory.local/blog/get-better-sleep-with-a-spa-day/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: To Sip or Not to Sip: The Dilemma of Getting a Massage Drunk
+POST ID: 11434
+SLUG: getting-a-massage-drunk
+FROM: /spa-theory-wellness-beauty-blog/getting-a-massage-drunk
+TO: http://spa-theory.local/blog/getting-a-massage-drunk/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Give Thanks and Practice Gratitude
+POST ID: 11435
+SLUG: give-thanks-and-practice-gratitude
+FROM: /spa-theory-wellness-beauty-blog/give-thanks-and-practice-gratitude
+TO: http://spa-theory.local/blog/give-thanks-and-practice-gratitude/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Groin and Inner Thigh Pain in Pregnancy – Causes &amp; Relief Tips
+POST ID: 11436
+SLUG: groin-inner-thigh-pain-pregnancy-causes-relief
+FROM: /spa-theory-wellness-beauty-blog/groin-inner-thigh-pain-pregnancy-causes-relief
+TO: http://spa-theory.local/blog/groin-inner-thigh-pain-pregnancy-causes-relief/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Groin Pain Relief – Causes, Relief for Back Pain and Hip Injuries
+POST ID: 11437
+SLUG: groin-pain-relief-causes-treatment
+FROM: /spa-theory-wellness-beauty-blog/groin-pain-relief-causes-treatment
+TO: http://spa-theory.local/blog/groin-pain-relief-causes-treatment/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Headache After a Massage? Here's What You Need To Know
+POST ID: 11438
+SLUG: headache-after-massage
+FROM: /spa-theory-wellness-beauty-blog/headache-after-massage
+TO: http://spa-theory.local/blog/headache-after-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Herniated Disc Massage: What You Need To Know
+POST ID: 11439
+SLUG: herniated-disc-massage
+FROM: /spa-theory-wellness-beauty-blog/herniated-disc-massage
+TO: http://spa-theory.local/blog/herniated-disc-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Hip Flexor Massage Techniques for Pain Relief and Flexibility
+POST ID: 11440
+SLUG: hip-flexor-massage-techniques-for-pain-relief
+FROM: /spa-theory-wellness-beauty-blog/hip-flexor-massage-techniques-for-pain-relief
+TO: http://spa-theory.local/blog/hip-flexor-massage-techniques-for-pain-relief/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: History of Massage Therapy: Exploring the Ancient Origins
+POST ID: 11441
+SLUG: history-of-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/history-of-massage-therapy
+TO: http://spa-theory.local/blog/history-of-massage-therapy/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Home Service Massage vs Spa Massage: Which is Best for You?
+POST ID: 11442
+SLUG: home-service-massage-vs-spa-massage
+FROM: /spa-theory-wellness-beauty-blog/home-service-massage-vs-spa-massage
+TO: http://spa-theory.local/blog/home-service-massage-vs-spa-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Hot Stone Massage: Melt Stress with Soothing Heat Therapy
+POST ID: 11443
+SLUG: hot-stone-massage
+FROM: /spa-theory-wellness-beauty-blog/hot-stone-massage
+TO: http://spa-theory.local/blog/hot-stone-massage/
+LINKS COUNT: 13
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Hot Stone Massage: Benefits and Cautions
+POST ID: 11444
+SLUG: hot-stone-massage-benefits
+FROM: /spa-theory-wellness-beauty-blog/hot-stone-massage-benefits
+TO: http://spa-theory.local/blog/hot-stone-massage-benefits/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Long Should A Massage Be?
+POST ID: 11445
+SLUG: how-long-should-massage-be
+FROM: /spa-theory-wellness-beauty-blog/how-long-should-massage-be
+TO: http://spa-theory.local/blog/how-long-should-massage-be/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Therapy Can Improve Skin Health
+POST ID: 11446
+SLUG: how-massage-therapy-can-improve-skin-health
+FROM: /spa-theory-wellness-beauty-blog/how-massage-therapy-can-improve-skin-health
+TO: http://spa-theory.local/blog/how-massage-therapy-can-improve-skin-health/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Therapy Can Improve Your Posture
+POST ID: 11447
+SLUG: how-massage-therapy-can-improve-your-posture
+FROM: /spa-theory-wellness-beauty-blog/how-massage-therapy-can-improve-your-posture
+TO: http://spa-theory.local/blog/how-massage-therapy-can-improve-your-posture/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Much to Tip for Massage? A Guide to Gratuity Etiquette
+POST ID: 11448
+SLUG: how-much-tip-for-massage
+FROM: /spa-theory-wellness-beauty-blog/how-much-tip-for-massage
+TO: http://spa-theory.local/blog/how-much-tip-for-massage/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Often Should You Get A Massage?
+POST ID: 11449
+SLUG: how-often-should-you-get-massage
+FROM: /spa-theory-wellness-beauty-blog/how-often-should-you-get-massage
+TO: http://spa-theory.local/blog/how-often-should-you-get-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Effectively Remove Massage Oil from Sheets and Towels
+POST ID: 11450
+SLUG: how-to-get-massage-oil-out-of-sheets
+FROM: /spa-theory-wellness-beauty-blog/how-to-get-massage-oil-out-of-sheets
+TO: http://spa-theory.local/blog/how-to-get-massage-oil-out-of-sheets/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Get Rid of Brain Fog: Effective Strategies for Mental Clarity
+POST ID: 11451
+SLUG: how-to-get-rid-of-brain-fog-effective-strategies-for-mental-clarity
+FROM: /spa-theory-wellness-beauty-blog/how-to-get-rid-of-brain-fog-effective-strategies-for-mental-clarity
+TO: http://spa-theory.local/blog/how-to-get-rid-of-brain-fog-effective-strategies-for-mental-clarity/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Massage Scalp: A Step-by-Step Guide
+POST ID: 11452
+SLUG: how-to-massage-scalp
+FROM: /spa-theory-wellness-beauty-blog/how-to-massage-scalp
+TO: http://spa-theory.local/blog/how-to-massage-scalp/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Massage a Tight Calf Muscle
+POST ID: 11453
+SLUG: how-to-massage-tight-calf-muscle
+FROM: /spa-theory-wellness-beauty-blog/how-to-massage-tight-calf-muscle
+TO: http://spa-theory.local/blog/how-to-massage-tight-calf-muscle/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Massage Your Own Feet: Ultimate Guide
+POST ID: 11454
+SLUG: how-to-massage-your-own-feet
+FROM: /spa-theory-wellness-beauty-blog/how-to-massage-your-own-feet
+TO: http://spa-theory.local/blog/how-to-massage-your-own-feet/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Prepare for a Massage
+POST ID: 11455
+SLUG: how-to-prepare-for-a-massage
+FROM: /spa-theory-wellness-beauty-blog/how-to-prepare-for-a-massage
+TO: http://spa-theory.local/blog/how-to-prepare-for-a-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Prepare for an At-Home Hair and Makeup Appointment
+POST ID: 11456
+SLUG: how-to-prepare-for-an-at-home-hair-and-makeup-appointment
+FROM: /spa-theory-wellness-beauty-blog/how-to-prepare-for-an-at-home-hair-and-makeup-appointment
+TO: http://spa-theory.local/blog/how-to-prepare-for-an-at-home-hair-and-makeup-appointment/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How To Use A Massage Gun: Do's and Don'ts
+POST ID: 11457
+SLUG: how-to-use-a-massage-gun
+FROM: /spa-theory-wellness-beauty-blog/how-to-use-a-massage-gun
+TO: http://spa-theory.local/blog/how-to-use-a-massage-gun/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Use a Massage Ball
+POST ID: 11458
+SLUG: how-to-use-massage-ball
+FROM: /spa-theory-wellness-beauty-blog/how-to-use-massage-ball
+TO: http://spa-theory.local/blog/how-to-use-massage-ball/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Use Massage Oil
+POST ID: 11459
+SLUG: how-to-use-massage-oil
+FROM: /spa-theory-wellness-beauty-blog/how-to-use-massage-oil
+TO: http://spa-theory.local/blog/how-to-use-massage-oil/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How To Use Massage to Improve Sleep
+POST ID: 11460
+SLUG: how-to-use-massage-to-improve-sleep
+FROM: /spa-theory-wellness-beauty-blog/how-to-use-massage-to-improve-sleep
+TO: http://spa-theory.local/blog/how-to-use-massage-to-improve-sleep/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Importance of Proper Breathing During Massage
+POST ID: 11461
+SLUG: importance-of-proper-breathing-during-massage
+FROM: /spa-theory-wellness-beauty-blog/importance-of-proper-breathing-during-massage
+TO: http://spa-theory.local/blog/importance-of-proper-breathing-during-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: In Home Beauty for Busy Moms
+POST ID: 11462
+SLUG: in-home-beauty-for-busy-moms
+FROM: /spa-theory-wellness-beauty-blog/in-home-beauty-for-busy-moms
+TO: http://spa-theory.local/blog/in-home-beauty-for-busy-moms/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Incorporate Massage Therapy Into Your Wellness Routine
+POST ID: 11463
+SLUG: incorporating-massage-into-wellness-routine
+FROM: /spa-theory-wellness-beauty-blog/incorporating-massage-into-wellness-routine
+TO: http://spa-theory.local/blog/incorporating-massage-into-wellness-routine/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Indian Head Massage: Relaxation and Stress Reduction
+POST ID: 11464
+SLUG: indian-head-massage
+FROM: /spa-theory-wellness-beauty-blog/indian-head-massage
+TO: http://spa-theory.local/blog/indian-head-massage/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Can Help Speed Up Recovery From Injury
+POST ID: 11465
+SLUG: injury-recovery-massage
+FROM: /spa-theory-wellness-beauty-blog/injury-recovery-massage
+TO: http://spa-theory.local/blog/injury-recovery-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Kneading Massage: A Complete Guide
+POST ID: 11466
+SLUG: kneading-massage
+FROM: /spa-theory-wellness-beauty-blog/kneading-massage
+TO: http://spa-theory.local/blog/kneading-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Lower Leg Lymphatic Drainage and Knee Massage Techniques for Pain Relief
+POST ID: 11467
+SLUG: knee-massage
+FROM: /spa-theory-wellness-beauty-blog/knee-massage
+TO: http://spa-theory.local/blog/knee-massage/
+LINKS COUNT: 14
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Kobido Massage: What Is It and How To Do It
+POST ID: 11468
+SLUG: kobido-massage
+FROM: /spa-theory-wellness-beauty-blog/kobido-massage
+TO: http://spa-theory.local/blog/kobido-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Leg Massage: A How-To Guide
+POST ID: 11469
+SLUG: leg-massage
+FROM: /spa-theory-wellness-beauty-blog/leg-massage
+TO: http://spa-theory.local/blog/leg-massage/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Leg Massage Benefits 2025: Fix Sore Legs &amp; Boost Circulation
+POST ID: 11470
+SLUG: leg-massage-guide
+FROM: /spa-theory-wellness-beauty-blog/leg-massage-guide
+TO: http://spa-theory.local/blog/leg-massage-guide/
+LINKS COUNT: 9
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Lower Back Massage Techniques: Best Practices to Alleviate Pain
+POST ID: 11471
+SLUG: lower-back-massage-techniques-and-best-practices
+FROM: /spa-theory-wellness-beauty-blog/lower-back-massage-techniques-and-best-practices
+TO: http://spa-theory.local/blog/lower-back-massage-techniques-and-best-practices/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Lyme Disease Massage Therapy Guide
+POST ID: 11472
+SLUG: lyme-disease-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/lyme-disease-massage-therapy
+TO: http://spa-theory.local/blog/lyme-disease-massage-therapy/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Lymphatic Drainage Massage for Torn Muscles and Injury Recovery: The Complete Guide
+POST ID: 11473
+SLUG: lymphatic-drainage-massage-for-torn-muscles
+FROM: /spa-theory-wellness-beauty-blog/lymphatic-drainage-massage-for-torn-muscles
+TO: http://spa-theory.local/blog/lymphatic-drainage-massage-for-torn-muscles/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Male vs Female Massage Therapist: Which One is Right for You?
+POST ID: 11474
+SLUG: male-vs-female-massage-therapist
+FROM: /spa-theory-wellness-beauty-blog/male-vs-female-massage-therapist
+TO: http://spa-theory.local/blog/male-vs-female-massage-therapist/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Manage Stress with Self Care
+POST ID: 11475
+SLUG: manage-stress-with-self-care
+FROM: /spa-theory-wellness-beauty-blog/manage-stress-with-self-care
+TO: http://spa-theory.local/blog/manage-stress-with-self-care/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Best Massage After Knee Replacement: Ultimate Guide to Recovery
+POST ID: 11476
+SLUG: massage-after-knee-replacement
+FROM: /spa-theory-wellness-beauty-blog/massage-after-knee-replacement
+TO: http://spa-theory.local/blog/massage-after-knee-replacement/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Body Massage After Tooth Extraction: Safety Guide
+POST ID: 11477
+SLUG: massage-after-tooth-extraction-safety-guide
+FROM: /spa-theory-wellness-beauty-blog/massage-after-tooth-extraction-safety-guide
+TO: http://spa-theory.local/blog/massage-after-tooth-extraction-safety-guide/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage and Energy Healing: Balancing the Chakras
+POST ID: 11478
+SLUG: massage-and-energy-healing-balancing-the-chakras
+FROM: /spa-theory-wellness-beauty-blog/massage-and-energy-healing-balancing-the-chakras
+TO: http://spa-theory.local/blog/massage-and-energy-healing-balancing-the-chakras/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage and Fibromyalgia: Things to Know
+POST ID: 11479
+SLUG: massage-and-fibromyalgia
+FROM: /spa-theory-wellness-beauty-blog/massage-and-fibromyalgia
+TO: http://spa-theory.local/blog/massage-and-fibromyalgia/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Ultimate Guide to Lymphatic Drainage Massage: Detoxifying Your Body
+POST ID: 11480
+SLUG: massage-and-lymphatic-drainage
+FROM: /spa-theory-wellness-beauty-blog/massage-and-lymphatic-drainage
+TO: http://spa-theory.local/blog/massage-and-lymphatic-drainage/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 9 Benefits of Owning and Using a Massage Chair
+POST ID: 11481
+SLUG: massage-chair-benefits
+FROM: /spa-theory-wellness-beauty-blog/massage-chair-benefits
+TO: http://spa-theory.local/blog/massage-chair-benefits/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage Etiquette: Do’s and Don’ts
+POST ID: 11482
+SLUG: massage-etiquette
+FROM: /spa-theory-wellness-beauty-blog/massage-etiquette
+TO: http://spa-theory.local/blog/massage-etiquette/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Therapy Can Help With ADHD
+POST ID: 11483
+SLUG: massage-for-adhd
+FROM: /spa-theory-wellness-beauty-blog/massage-for-adhd
+TO: http://spa-theory.local/blog/massage-for-adhd/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Allergy: Can It Help Alleviate Symptoms?
+POST ID: 11484
+SLUG: massage-for-allergy
+FROM: /spa-theory-wellness-beauty-blog/massage-for-allergy
+TO: http://spa-theory.local/blog/massage-for-allergy/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Arthritis: Managing Pain and Stiffness
+POST ID: 11485
+SLUG: massage-for-arthritis
+FROM: /spa-theory-wellness-beauty-blog/massage-for-arthritis
+TO: http://spa-theory.local/blog/massage-for-arthritis/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Athletes: Speeding Recovery and Enhancing Performance
+POST ID: 11486
+SLUG: massage-for-athletes
+FROM: /spa-theory-wellness-beauty-blog/massage-for-athletes
+TO: http://spa-theory.local/blog/massage-for-athletes/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Coccydynia: Easing Tailbone Pain
+POST ID: 11487
+SLUG: massage-for-coccydynia-easing-tailbone-pain
+FROM: /spa-theory-wellness-beauty-blog/massage-for-coccydynia-easing-tailbone-pain
+TO: http://spa-theory.local/blog/massage-for-coccydynia-easing-tailbone-pain/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Concussion Recovery: A Therapeutic Approach
+POST ID: 11488
+SLUG: massage-for-concussion
+FROM: /spa-theory-wellness-beauty-blog/massage-for-concussion
+TO: http://spa-theory.local/blog/massage-for-concussion/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Depression: How It Can Help?
+POST ID: 11489
+SLUG: massage-for-depression
+FROM: /spa-theory-wellness-beauty-blog/massage-for-depression
+TO: http://spa-theory.local/blog/massage-for-depression/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Diabetics: Understanding the Benefits
+POST ID: 11490
+SLUG: massage-for-diabetics
+FROM: /spa-theory-wellness-beauty-blog/massage-for-diabetics
+TO: http://spa-theory.local/blog/massage-for-diabetics/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Foot Pain: Best Techniques&nbsp;
+POST ID: 11491
+SLUG: massage-for-foot-pain
+FROM: /spa-theory-wellness-beauty-blog/massage-for-foot-pain
+TO: http://spa-theory.local/blog/massage-for-foot-pain/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for High Blood Pressure: A Natural Approach to Better Health
+POST ID: 11492
+SLUG: massage-for-high-blood-pressure
+FROM: /spa-theory-wellness-beauty-blog/massage-for-high-blood-pressure
+TO: http://spa-theory.local/blog/massage-for-high-blood-pressure/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Unlocking the Benefits of Massage for Your Immune System
+POST ID: 11493
+SLUG: massage-for-immune-system
+FROM: /spa-theory-wellness-beauty-blog/massage-for-immune-system
+TO: http://spa-theory.local/blog/massage-for-immune-system/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Can Help with Insomnia
+POST ID: 11494
+SLUG: massage-for-insomnia
+FROM: /spa-theory-wellness-beauty-blog/massage-for-insomnia
+TO: http://spa-theory.local/blog/massage-for-insomnia/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Jet Lag: Rebalancing the Body and Mind
+POST ID: 11495
+SLUG: massage-for-jet-lag
+FROM: /spa-theory-wellness-beauty-blog/massage-for-jet-lag
+TO: http://spa-theory.local/blog/massage-for-jet-lag/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Kids: Benefits and Considerations
+POST ID: 11496
+SLUG: massage-for-kids
+FROM: /spa-theory-wellness-beauty-blog/massage-for-kids
+TO: http://spa-theory.local/blog/massage-for-kids/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Migraine Relief: Easing Pain and Discomfort
+POST ID: 11497
+SLUG: massage-for-migraine-relief
+FROM: /spa-theory-wellness-beauty-blog/massage-for-migraine-relief
+TO: http://spa-theory.local/blog/massage-for-migraine-relief/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 9 Benefits of Massage for Pain Relief
+POST ID: 11498
+SLUG: massage-for-pain-relief
+FROM: /spa-theory-wellness-beauty-blog/massage-for-pain-relief
+TO: http://spa-theory.local/blog/massage-for-pain-relief/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Therapy Helps with PTSD
+POST ID: 11499
+SLUG: massage-for-ptsd
+FROM: /spa-theory-wellness-beauty-blog/massage-for-ptsd
+TO: http://spa-theory.local/blog/massage-for-ptsd/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Sciatica: Benefits and Techniques
+POST ID: 11500
+SLUG: massage-for-sciatica
+FROM: /spa-theory-wellness-beauty-blog/massage-for-sciatica
+TO: http://spa-theory.local/blog/massage-for-sciatica/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How Massage Therapy Can Help With Scoliosis
+POST ID: 11501
+SLUG: massage-for-scoliosis
+FROM: /spa-theory-wellness-beauty-blog/massage-for-scoliosis
+TO: http://spa-theory.local/blog/massage-for-scoliosis/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Tendonitis: Easing Tendon Inflammation
+POST ID: 11502
+SLUG: massage-for-tendonitis-easing-tendon-inflammation
+FROM: /spa-theory-wellness-beauty-blog/massage-for-tendonitis-easing-tendon-inflammation
+TO: http://spa-theory.local/blog/massage-for-tendonitis-easing-tendon-inflammation/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for TMJ Disorders: Relieving Jaw Tension and Pain
+POST ID: 11503
+SLUG: massage-for-tmj-disorders
+FROM: /spa-theory-wellness-beauty-blog/massage-for-tmj-disorders
+TO: http://spa-theory.local/blog/massage-for-tmj-disorders/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Trigger Finger: Managing Finger Stiffness
+POST ID: 11504
+SLUG: massage-for-trigger-finger-managing-finger-stiffness
+FROM: /spa-theory-wellness-beauty-blog/massage-for-trigger-finger-managing-finger-stiffness
+TO: http://spa-theory.local/blog/massage-for-trigger-finger-managing-finger-stiffness/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: How to Use Massage for Weight Loss
+POST ID: 11505
+SLUG: massage-for-weight-loss
+FROM: /spa-theory-wellness-beauty-blog/massage-for-weight-loss
+TO: http://spa-theory.local/blog/massage-for-weight-loss/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage for Whiplash: Things to Know
+POST ID: 11506
+SLUG: massage-for-whiplash
+FROM: /spa-theory-wellness-beauty-blog/massage-for-whiplash
+TO: http://spa-theory.local/blog/massage-for-whiplash/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage Gun Benefits: What You Need To Know
+POST ID: 11507
+SLUG: massage-gun-benefits
+FROM: /spa-theory-wellness-beauty-blog/massage-gun-benefits
+TO: http://spa-theory.local/blog/massage-gun-benefits/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Key Massage Pressure Points For Relaxation and Tension Relief
+POST ID: 11508
+SLUG: massage-pressure-points
+FROM: /spa-theory-wellness-beauty-blog/massage-pressure-points
+TO: http://spa-theory.local/blog/massage-pressure-points/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage Therapy Code of Ethics: Ensuring a Safe and Respectful Experience
+POST ID: 11509
+SLUG: massage-therapy-code-of-ethics
+FROM: /spa-theory-wellness-beauty-blog/massage-therapy-code-of-ethics
+TO: http://spa-theory.local/blog/massage-therapy-code-of-ethics/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Benefits of Massage Therapy for People with Disabilities
+POST ID: 11510
+SLUG: massage-therapy-for-disabled
+FROM: /spa-theory-wellness-beauty-blog/massage-therapy-for-disabled
+TO: http://spa-theory.local/blog/massage-therapy-for-disabled/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massage Therapy for Frozen Shoulder
+POST ID: 11511
+SLUG: massage-therapy-for-frozen-shoulder
+FROM: /spa-theory-wellness-beauty-blog/massage-therapy-for-frozen-shoulder
+TO: http://spa-theory.local/blog/massage-therapy-for-frozen-shoulder/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Massaging Strained Muscles: What You Need to Know
+POST ID: 11512
+SLUG: massaging-strained-muscles
+FROM: /spa-theory-wellness-beauty-blog/massaging-strained-muscles
+TO: http://spa-theory.local/blog/massaging-strained-muscles/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Medical Massage: Everything You Need To Know
+POST ID: 11513
+SLUG: medical-massage-everything-you-need-to-know
+FROM: /spa-theory-wellness-beauty-blog/medical-massage-everything-you-need-to-know
+TO: http://spa-theory.local/blog/medical-massage-everything-you-need-to-know/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Meet In-Home Massage Provider Nicole
+POST ID: 11514
+SLUG: meet-in-home-massage-provider-nicole
+FROM: /spa-theory-wellness-beauty-blog/meet-in-home-massage-provider-nicole
+TO: http://spa-theory.local/blog/meet-in-home-massage-provider-nicole/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Meet Spa Theory Esthetician, Yolanda H.
+POST ID: 11515
+SLUG: meet-spa-theory-esthetician-yolanda-h
+FROM: /spa-theory-wellness-beauty-blog/meet-spa-theory-esthetician-yolanda-h
+TO: http://spa-theory.local/blog/meet-spa-theory-esthetician-yolanda-h/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Meet Spa Theory Manicurist: Andrea G.
+POST ID: 11516
+SLUG: meet-spa-theory-manicurist-andrea-grimes
+FROM: /spa-theory-wellness-beauty-blog/meet-spa-theory-manicurist-andrea-grimes
+TO: http://spa-theory.local/blog/meet-spa-theory-manicurist-andrea-grimes/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Meet Spa Theory Massage Therapist: Alison B.
+POST ID: 11517
+SLUG: meet-spa-theory-massage-therapist-alison-blythe
+FROM: /spa-theory-wellness-beauty-blog/meet-spa-theory-massage-therapist-alison-blythe
+TO: http://spa-theory.local/blog/meet-spa-theory-massage-therapist-alison-blythe/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Mobile Waxing Services Near You
+POST ID: 11518
+SLUG: mobile-waxing-services
+FROM: /spa-theory-wellness-beauty-blog/mobile-waxing-services
+TO: http://spa-theory.local/blog/mobile-waxing-services/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Myofascial Release Therapy: Unlocking Tension and Pain
+POST ID: 11519
+SLUG: myofascial-release-therapy
+FROM: /spa-theory-wellness-beauty-blog/myofascial-release-therapy
+TO: http://spa-theory.local/blog/myofascial-release-therapy/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: National Relaxation Day…Let’s Make It More Than a Day
+POST ID: 11520
+SLUG: national-relaxation-daylets-make-it-more-than-a-day
+FROM: /spa-theory-wellness-beauty-blog/national-relaxation-daylets-make-it-more-than-a-day
+TO: http://spa-theory.local/blog/national-relaxation-daylets-make-it-more-than-a-day/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Neuromuscular Massage: Addressing Muscular Pain and Tension
+POST ID: 11521
+SLUG: neuromuscular-massage
+FROM: /spa-theory-wellness-beauty-blog/neuromuscular-massage
+TO: http://spa-theory.local/blog/neuromuscular-massage/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Neuromuscular Massage vs Deep Tissue Massage: Understanding the Differences
+POST ID: 11522
+SLUG: neuromuscular-massage-vs-deep-tissue-massage
+FROM: /spa-theory-wellness-beauty-blog/neuromuscular-massage-vs-deep-tissue-massage
+TO: http://spa-theory.local/blog/neuromuscular-massage-vs-deep-tissue-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Occipital Neuralgia Massage: What is it and How to do it?
+POST ID: 11523
+SLUG: occipital-neuralgia-massage
+FROM: /spa-theory-wellness-beauty-blog/occipital-neuralgia-massage
+TO: http://spa-theory.local/blog/occipital-neuralgia-massage/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Oil vs Lotion: Which is Best for a Massage?
+POST ID: 11524
+SLUG: oil-vs-lotion-for-massage
+FROM: /spa-theory-wellness-beauty-blog/oil-vs-lotion-for-massage
+TO: http://spa-theory.local/blog/oil-vs-lotion-for-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Oncology Massage: Supportive Care for Cancer Patients
+POST ID: 11525
+SLUG: oncology-massage
+FROM: /spa-theory-wellness-beauty-blog/oncology-massage
+TO: http://spa-theory.local/blog/oncology-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Orthopedic Massage vs. Medical Massage: Main Differences
+POST ID: 11526
+SLUG: orthopedic-massage-vs-medical-massage
+FROM: /spa-theory-wellness-beauty-blog/orthopedic-massage-vs-medical-massage
+TO: http://spa-theory.local/blog/orthopedic-massage-vs-medical-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Ozempic Face Before and After Massage: Treatments &amp; Natural Fixes
+POST ID: 11527
+SLUG: ozempic-face-before-and-after-massage
+FROM: /spa-theory-wellness-beauty-blog/ozempic-face-before-and-after-massage
+TO: http://spa-theory.local/blog/ozempic-face-before-and-after-massage/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Petrissage Massage: A Complete Guide
+POST ID: 11528
+SLUG: petrissage
+FROM: /spa-theory-wellness-beauty-blog/petrissage
+TO: http://spa-theory.local/blog/petrissage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Plantar Fasciitis Massage: A Complete Guide
+POST ID: 11529
+SLUG: plantar-fasciitis-massage
+FROM: /spa-theory-wellness-beauty-blog/plantar-fasciitis-massage
+TO: http://spa-theory.local/blog/plantar-fasciitis-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Plantar Fibroma Massage: How-To Guide
+POST ID: 11530
+SLUG: plantar-fibroma-massage
+FROM: /spa-theory-wellness-beauty-blog/plantar-fibroma-massage
+TO: http://spa-theory.local/blog/plantar-fibroma-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Post-Massage Care: Essential Aftercare Tips
+POST ID: 11531
+SLUG: post-massage-care-essential-aftercare-tips
+FROM: /spa-theory-wellness-beauty-blog/post-massage-care-essential-aftercare-tips
+TO: http://spa-theory.local/blog/post-massage-care-essential-aftercare-tips/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Post-Massage Food: Complementing Relaxation with Nutrition
+POST ID: 11532
+SLUG: post-massage-food-complementing-relaxation-with-nutrition
+FROM: /spa-theory-wellness-beauty-blog/post-massage-food-complementing-relaxation-with-nutrition
+TO: http://spa-theory.local/blog/post-massage-food-complementing-relaxation-with-nutrition/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Post Surgery Massage: Accelerating Postoperative Recovery
+POST ID: 11533
+SLUG: post-surgery-massage
+FROM: /spa-theory-wellness-beauty-blog/post-surgery-massage
+TO: http://spa-theory.local/blog/post-surgery-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Postpartum Massage: Supporting New Mothers
+POST ID: 11534
+SLUG: postpartum-massage
+FROM: /spa-theory-wellness-beauty-blog/postpartum-massage
+TO: http://spa-theory.local/blog/postpartum-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Pregnancy Foot Massage: Everything You Need to Know
+POST ID: 11535
+SLUG: pregnancy-foot-massage
+FROM: /spa-theory-wellness-beauty-blog/pregnancy-foot-massage
+TO: http://spa-theory.local/blog/pregnancy-foot-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Complete Guide to Pregnancy Massage: Techniques, Benefits, and Tips for Every Trimester
+POST ID: 11536
+SLUG: prenatal-massage-in-pregnancy
+FROM: /spa-theory-wellness-beauty-blog/prenatal-massage-in-pregnancy
+TO: http://spa-theory.local/blog/prenatal-massage-in-pregnancy/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Pressure Points for Anxiety Relief
+POST ID: 11537
+SLUG: pressure-points-for-anxiety
+FROM: /spa-theory-wellness-beauty-blog/pressure-points-for-anxiety
+TO: http://spa-theory.local/blog/pressure-points-for-anxiety/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Pressure Points for Headaches&nbsp;
+POST ID: 11538
+SLUG: pressure-points-for-headaches
+FROM: /spa-theory-wellness-beauty-blog/pressure-points-for-headaches
+TO: http://spa-theory.local/blog/pressure-points-for-headaches/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: PSOAS Muscle Massage: How-To Guide
+POST ID: 11539
+SLUG: psoas-muscle-massage
+FROM: /spa-theory-wellness-beauty-blog/psoas-muscle-massage
+TO: http://spa-theory.local/blog/psoas-muscle-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 10 Questions to Ask A Massage Therapist
+POST ID: 11540
+SLUG: questions-to-ask-a-massage-therapist
+FROM: /spa-theory-wellness-beauty-blog/questions-to-ask-a-massage-therapist
+TO: http://spa-theory.local/blog/questions-to-ask-a-massage-therapist/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: FAILED
+TITLE: 
+POST ID: N/A
+SLUG: r506e55x4f6e84h445xd5126klim9i
+FROM: /spa-theory-wellness-beauty-blog/r506e55x4f6e84h445xd5126klim9i
+TO: N/A
+LINKS COUNT: 0
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Reflexology: Everything You Need To Know
+POST ID: 11541
+SLUG: reflexology
+FROM: /spa-theory-wellness-beauty-blog/reflexology
+TO: http://spa-theory.local/blog/reflexology/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Reflexology and Massage: Key Differences
+POST ID: 11542
+SLUG: reflexology-and-massage
+FROM: /spa-theory-wellness-beauty-blog/reflexology-and-massage
+TO: http://spa-theory.local/blog/reflexology-and-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Reiki VS Massage: Understanding the Key Differences
+POST ID: 11543
+SLUG: reiki-vs-massage
+FROM: /spa-theory-wellness-beauty-blog/reiki-vs-massage
+TO: http://spa-theory.local/blog/reiki-vs-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Role of Music in Massage Therapy
+POST ID: 11544
+SLUG: role-of-music-in-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/role-of-music-in-massage-therapy
+TO: http://spa-theory.local/blog/role-of-music-in-massage-therapy/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Rolfing Massage: Everything You Need To Know
+POST ID: 11545
+SLUG: rolfing-massage
+FROM: /spa-theory-wellness-beauty-blog/rolfing-massage
+TO: http://spa-theory.local/blog/rolfing-massage/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Rolfing Massage: How It Works &amp; Benefits for Pain Relief, Posture &amp; Movement
+POST ID: 11546
+SLUG: rolfing-massage-benefits-technique
+FROM: /spa-theory-wellness-beauty-blog/rolfing-massage-benefits-technique
+TO: http://spa-theory.local/blog/rolfing-massage-benefits-technique/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Scar Tissue Massage: Improving Healing and Reducing Visibility
+POST ID: 11547
+SLUG: scar-tissue-massage
+FROM: /spa-theory-wellness-beauty-blog/scar-tissue-massage
+TO: http://spa-theory.local/blog/scar-tissue-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Scraping Massage (Gua Sha): Everything You Need To Know
+POST ID: 11548
+SLUG: scraping-massage
+FROM: /spa-theory-wellness-beauty-blog/scraping-massage
+TO: http://spa-theory.local/blog/scraping-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Exploring Effective Self-Neck Massage Techniques
+POST ID: 11549
+SLUG: self-neck-massage-techniques
+FROM: /spa-theory-wellness-beauty-blog/self-neck-massage-techniques
+TO: http://spa-theory.local/blog/self-neck-massage-techniques/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Shiatsu Massage: Balancing Energy and Promoting Healing
+POST ID: 11550
+SLUG: shiatsu-massage
+FROM: /spa-theory-wellness-beauty-blog/shiatsu-massage
+TO: http://spa-theory.local/blog/shiatsu-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Should I Shower Before or After a Massage?
+POST ID: 11551
+SLUG: should-you-shower-before-a-massage
+FROM: /spa-theory-wellness-beauty-blog/should-you-shower-before-a-massage
+TO: http://spa-theory.local/blog/should-you-shower-before-a-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Sinus Massage: A Natural Approach to Relieving Congestion
+POST ID: 11552
+SLUG: sinus-massage
+FROM: /spa-theory-wellness-beauty-blog/sinus-massage
+TO: http://spa-theory.local/blog/sinus-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is Somatic Massage?
+POST ID: 11553
+SLUG: somatic-massage
+FROM: /spa-theory-wellness-beauty-blog/somatic-massage
+TO: http://spa-theory.local/blog/somatic-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory at Home Nail Services
+POST ID: 11554
+SLUG: spa-theory-at-home-nail-services
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-at-home-nail-services
+TO: http://spa-theory.local/blog/spa-theory-at-home-nail-services/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Featured on Bravo Show Married to Medicine
+POST ID: 11555
+SLUG: spa-theory-featured-on-bravo-show-married-to-medicine
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-featured-on-bravo-show-married-to-medicine
+TO: http://spa-theory.local/blog/spa-theory-featured-on-bravo-show-married-to-medicine/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Founder, Alyshah Vishram Featured on The Millennial Mommies Club Podcast
+POST ID: 11556
+SLUG: spa-theory-founder-alyshah-vishram-featured-on-the-millennial-mommies-club-podcast
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-founder-alyshah-vishram-featured-on-the-millennial-mommies-club-podcast
+TO: http://spa-theory.local/blog/spa-theory-founder-alyshah-vishram-featured-on-the-millennial-mommies-club-podcast/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory In-Home Facial Services
+POST ID: 11557
+SLUG: spa-theory-in-home-facial-services
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-in-home-facial-services
+TO: http://spa-theory.local/blog/spa-theory-in-home-facial-services/
+LINKS COUNT: 9
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Launches Body Wraps
+POST ID: 11558
+SLUG: spa-theory-launches-body-wraps
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-launches-body-wraps
+TO: http://spa-theory.local/blog/spa-theory-launches-body-wraps/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Launches First Full-Range On-Demand Mobile Spa Membership
+POST ID: 11559
+SLUG: spa-theory-launches-first-full-range-on-demand-mobile-spa-membership
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-launches-first-full-range-on-demand-mobile-spa-membership
+TO: http://spa-theory.local/blog/spa-theory-launches-first-full-range-on-demand-mobile-spa-membership/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Launches in Miami/Fort Lauderdale
+POST ID: 11560
+SLUG: spa-theory-launches-in-miamifort-lauderdale
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-launches-in-miamifort-lauderdale
+TO: http://spa-theory.local/blog/spa-theory-launches-in-miamifort-lauderdale/
+LINKS COUNT: 5
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Mobile Spa Launches in Houston
+POST ID: 11561
+SLUG: spa-theory-mobile-spa-launches-in-houston
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-mobile-spa-launches-in-houston
+TO: http://spa-theory.local/blog/spa-theory-mobile-spa-launches-in-houston/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Sleep Massage, Your Natural Sleep Remedy
+POST ID: 11562
+SLUG: spa-theory-sleep-massage-your-natural-sleep-remedy
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-sleep-massage-your-natural-sleep-remedy
+TO: http://spa-theory.local/blog/spa-theory-sleep-massage-your-natural-sleep-remedy/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: SpaTheory Gift Cards: The Best Holiday Gift
+POST ID: 11563
+SLUG: spatheory-gift-cards
+FROM: /spa-theory-wellness-beauty-blog/spatheory-gift-cards
+TO: http://spa-theory.local/blog/spatheory-gift-cards/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Staying Relaxed at Home and on the Go
+POST ID: 11564
+SLUG: staying-relaxed-at-home-and-on-the-go
+FROM: /spa-theory-wellness-beauty-blog/staying-relaxed-at-home-and-on-the-go
+TO: http://spa-theory.local/blog/staying-relaxed-at-home-and-on-the-go/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Staying Sane During the Holidays
+POST ID: 11565
+SLUG: staying-sane-during-the-holidays
+FROM: /spa-theory-wellness-beauty-blog/staying-sane-during-the-holidays
+TO: http://spa-theory.local/blog/staying-sane-during-the-holidays/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Stomach Massage for Constipation
+POST ID: 11566
+SLUG: stomach-massage-for-constipation
+FROM: /spa-theory-wellness-beauty-blog/stomach-massage-for-constipation
+TO: http://spa-theory.local/blog/stomach-massage-for-constipation/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Summer Outdoor Spa Treatments
+POST ID: 11567
+SLUG: summer-outdoor-spa-treatments
+FROM: /spa-theory-wellness-beauty-blog/summer-outdoor-spa-treatments
+TO: http://spa-theory.local/blog/summer-outdoor-spa-treatments/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Swedish Massage vs Balinese Massage
+POST ID: 11568
+SLUG: swedish-massage-vs-balinese-massage
+FROM: /spa-theory-wellness-beauty-blog/swedish-massage-vs-balinese-massage
+TO: http://spa-theory.local/blog/swedish-massage-vs-balinese-massage/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Swedish Massage vs Deep Tissue: Which One Should You Book?
+POST ID: 11569
+SLUG: swedish-vs-deep-tissue-massage-benefits
+FROM: /spa-theory-wellness-beauty-blog/swedish-vs-deep-tissue-massage-benefits
+TO: http://spa-theory.local/blog/swedish-vs-deep-tissue-massage-benefits/
+LINKS COUNT: 9
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is Tapotement Massage?
+POST ID: 11570
+SLUG: tapotement
+FROM: /spa-theory-wellness-beauty-blog/tapotement
+TO: http://spa-theory.local/blog/tapotement/
+LINKS COUNT: 1
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Thai Massage: A Comprehensive Guide
+POST ID: 11571
+SLUG: thai-massage
+FROM: /spa-theory-wellness-beauty-blog/thai-massage
+TO: http://spa-theory.local/blog/thai-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Best Stretches for Lower Back Pain &amp; How Massage Therapy Can Help
+POST ID: 11572
+SLUG: the-best-stretches-for-lower-back-pain-how-massage-therapy-can-help
+FROM: /spa-theory-wellness-beauty-blog/the-best-stretches-for-lower-back-pain-how-massage-therapy-can-help
+TO: http://spa-theory.local/blog/the-best-stretches-for-lower-back-pain-how-massage-therapy-can-help/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Difference Between Massage Modalities
+POST ID: 11573
+SLUG: the-difference-between-massage-modalities
+FROM: /spa-theory-wellness-beauty-blog/the-difference-between-massage-modalities
+TO: http://spa-theory.local/blog/the-difference-between-massage-modalities/
+LINKS COUNT: 6
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Therapeutic Massage vs Relaxation Massage: What's the Difference?
+POST ID: 11574
+SLUG: therapeutic-vs-relaxation-massage
+FROM: /spa-theory-wellness-beauty-blog/therapeutic-vs-relaxation-massage
+TO: http://spa-theory.local/blog/therapeutic-vs-relaxation-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Throw the Best At-Home Spa Party
+POST ID: 11575
+SLUG: throw-the-best-at-home-spa-party
+FROM: /spa-theory-wellness-beauty-blog/throw-the-best-at-home-spa-party
+TO: http://spa-theory.local/blog/throw-the-best-at-home-spa-party/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Temporomandibular Massage: How to Relax Jaw Muscles &amp; Relieve TMJ Pain
+POST ID: 11576
+SLUG: tmj-massage
+FROM: /spa-theory-wellness-beauty-blog/tmj-massage
+TO: http://spa-theory.local/blog/tmj-massage/
+LINKS COUNT: 8
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Treating Muscle Soreness After a Massage: Effective Tips
+POST ID: 11577
+SLUG: treating-muscle-soreness-after-massage-effective-tips
+FROM: /spa-theory-wellness-beauty-blog/treating-muscle-soreness-after-massage-effective-tips
+TO: http://spa-theory.local/blog/treating-muscle-soreness-after-massage-effective-tips/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is Trigger Point Massage?
+POST ID: 11578
+SLUG: trigger-point-massage
+FROM: /spa-theory-wellness-beauty-blog/trigger-point-massage
+TO: http://spa-theory.local/blog/trigger-point-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Trigger Point Massage Therapy: Treat Painful Knots at Home
+POST ID: 11579
+SLUG: triggerpoint-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/triggerpoint-massage-therapy
+TO: http://spa-theory.local/blog/triggerpoint-massage-therapy/
+LINKS COUNT: 7
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Tui Na Massage: Everything You Need to Know
+POST ID: 11580
+SLUG: tui-na-massage
+FROM: /spa-theory-wellness-beauty-blog/tui-na-massage
+TO: http://spa-theory.local/blog/tui-na-massage/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: 7 Different Types of Massage Therapy
+POST ID: 11581
+SLUG: types-of-massage-therapy
+FROM: /spa-theory-wellness-beauty-blog/types-of-massage-therapy
+TO: http://spa-theory.local/blog/types-of-massage-therapy/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Ultimate Guide to Couple Spa in 2025
+POST ID: 11582
+SLUG: ultimate-couples-spa-guide
+FROM: /spa-theory-wellness-beauty-blog/ultimate-couples-spa-guide
+TO: http://spa-theory.local/blog/ultimate-couples-spa-guide/
+LINKS COUNT: 10
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Understanding Cranial Sacral Therapy: What You Need to Know
+POST ID: 11583
+SLUG: understanding-cranial-sacral-therapy
+FROM: /spa-theory-wellness-beauty-blog/understanding-cranial-sacral-therapy
+TO: http://spa-theory.local/blog/understanding-cranial-sacral-therapy/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Vagus Nerve Massage: What You Need To Know
+POST ID: 11584
+SLUG: vagus-nerve-massage
+FROM: /spa-theory-wellness-beauty-blog/vagus-nerve-massage
+TO: http://spa-theory.local/blog/vagus-nerve-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Wellness At Work: A Necessity Not a Luxury
+POST ID: 11585
+SLUG: wellness-at-work-a-necessity-not-a-luxury
+FROM: /spa-theory-wellness-beauty-blog/wellness-at-work-a-necessity-not-a-luxury
+TO: http://spa-theory.local/blog/wellness-at-work-a-necessity-not-a-luxury/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What Happens to Your Body After a Massage?
+POST ID: 11586
+SLUG: what-happens-to-your-body-after-massage
+FROM: /spa-theory-wellness-beauty-blog/what-happens-to-your-body-after-massage
+TO: http://spa-theory.local/blog/what-happens-to-your-body-after-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is a Table Shower Massage and Body Scrub Massage?
+POST ID: 11587
+SLUG: what-is-a-table-shower-massage
+FROM: /spa-theory-wellness-beauty-blog/what-is-a-table-shower-massage
+TO: http://spa-theory.local/blog/what-is-a-table-shower-massage/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is a 4 Hands Massage?
+POST ID: 11588
+SLUG: what-is-four-hands-massage
+FROM: /spa-theory-wellness-beauty-blog/what-is-four-hands-massage
+TO: http://spa-theory.local/blog/what-is-four-hands-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is a lomi lomi massage?
+POST ID: 11589
+SLUG: what-is-lomi-lomi-massage
+FROM: /spa-theory-wellness-beauty-blog/what-is-lomi-lomi-massage
+TO: http://spa-theory.local/blog/what-is-lomi-lomi-massage/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What is Sports Massage?
+POST ID: 11590
+SLUG: what-is-sports-massage
+FROM: /spa-theory-wellness-beauty-blog/what-is-sports-massage
+TO: http://spa-theory.local/blog/what-is-sports-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What to Expect at Your First Massage
+POST ID: 11591
+SLUG: what-to-expect-at-your-first-massage
+FROM: /spa-theory-wellness-beauty-blog/what-to-expect-at-your-first-massage
+TO: http://spa-theory.local/blog/what-to-expect-at-your-first-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What to Expect from Your First At-Home Massage
+POST ID: 11592
+SLUG: what-to-expect-from-your-fist-at-home-massage
+FROM: /spa-theory-wellness-beauty-blog/what-to-expect-from-your-fist-at-home-massage
+TO: http://spa-theory.local/blog/what-to-expect-from-your-fist-at-home-massage/
+LINKS COUNT: 4
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What to Wear to a Massage?
+POST ID: 11593
+SLUG: what-to-wear-to-a-massage
+FROM: /spa-theory-wellness-beauty-blog/what-to-wear-to-a-massage
+TO: http://spa-theory.local/blog/what-to-wear-to-a-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: What Toxins are Released After a Massage?
+POST ID: 11594
+SLUG: what-toxins-are-released-after-massage
+FROM: /spa-theory-wellness-beauty-blog/what-toxins-are-released-after-massage
+TO: http://spa-theory.local/blog/what-toxins-are-released-after-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Where to Get a Massage in Atlanta, GA?
+POST ID: 11595
+SLUG: where-get-massage-in-atlanta-ga
+FROM: /spa-theory-wellness-beauty-blog/where-get-massage-in-atlanta-ga
+TO: http://spa-theory.local/blog/where-get-massage-in-atlanta-ga/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Why a Hot Stone Massage is Just What You Need Right Now
+POST ID: 11596
+SLUG: why-a-hot-stone-massage-is-just-what-you-need-right-now
+FROM: /spa-theory-wellness-beauty-blog/why-a-hot-stone-massage-is-just-what-you-need-right-now
+TO: http://spa-theory.local/blog/why-a-hot-stone-massage-is-just-what-you-need-right-now/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Why Does Massage Feel Good?
+POST ID: 11597
+SLUG: why-does-massage-feel-good
+FROM: /spa-theory-wellness-beauty-blog/why-does-massage-feel-good
+TO: http://spa-theory.local/blog/why-does-massage-feel-good/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Why Drink Water After a Massage
+POST ID: 11598
+SLUG: why-drink-water-after-a-massage
+FROM: /spa-theory-wellness-beauty-blog/why-drink-water-after-a-massage
+TO: http://spa-theory.local/blog/why-drink-water-after-a-massage/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: January 2021: Updated Policies
+POST ID: 11599
+SLUG: Blog Post Title One-53nxk
+FROM: /spa-theory-wellness-beauty-blog/Blog Post Title One-53nxk
+TO: http://spa-theory.local/blog/Blog Post Title One-53nxk/
+LINKS COUNT: 0
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: SPA THEORY BODY WRAP PROTOCOL
+POST ID: 11600
+SLUG: spa-theory-body-wrap-protocol
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-body-wrap-protocol
+TO: http://spa-theory.local/blog/spa-theory-body-wrap-protocol/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Atlanta Magazine
+POST ID: 11601
+SLUG: atlanta-magazine-march
+FROM: /spa-theory-wellness-beauty-blog/atlanta-magazine-march
+TO: http://spa-theory.local/blog/atlanta-magazine-march/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: Spa Theory Featured on Bravo’s Married to Medicine
+POST ID: 11602
+SLUG: spa-theory-featured-on-bravos-married-to-medicine
+FROM: /spa-theory-wellness-beauty-blog/spa-theory-featured-on-bravos-married-to-medicine
+TO: http://spa-theory.local/blog/spa-theory-featured-on-bravos-married-to-medicine/
+LINKS COUNT: 3
+--------------------------------------------------------------------------------
+
+STATUS: SUCCESS
+TITLE: The Paper Magazine: Spa Theory Now on The Move in Houston
+POST ID: 11603
+SLUG: the-paper-magazine-spa-theory-now-on-the-move-in-houston
+FROM: /spa-theory-wellness-beauty-blog/the-paper-magazine-spa-theory-now-on-the-move-in-houston
+TO: http://spa-theory.local/blog/the-paper-magazine-spa-theory-now-on-the-move-in-houston/
+LINKS COUNT: 2
+--------------------------------------------------------------------------------
+

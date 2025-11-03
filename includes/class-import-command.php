@@ -555,9 +555,9 @@ class BlogPostImporter
 			preg_match_all(
 				'~
 				(?:<(?:p|h[1-6])[^>]*>\s*(?:&nbsp;|<br\s*\/?>)*\s*<\/(?:p|h[1-6])>\s*)*       # skip empty tags
-				<(?:p|h[1-6])[^>]*>\s*(?:\d+\.?\s*)?(.+?\?)\s*<\/(?:p|h[1-6])>\s*             # question (ends with ?)
+				<(?:p|h[1-6])[^>]*>\s*(?:\d+\.?\s*)?(.+?(?:\?|\)))(?:&nbsp;)?\s*<\/(?:p|h[1-6])>\s*             # question (ends with ?)
 				(?:<(?:p|h[1-6])[^>]*>\s*(?:&nbsp;|<br\s*>)*\s*<\/(?:p|h[1-6])>\s*)*       # skip empty tags
-				<(?P<tag>p|ul)[^>]*>\s*(?P<answer>.*?)\s*<\/(?P=tag)>                        # answer (recursive-safe)
+				<(?P<tag>p|ul|ol)[^>]*>\s*(?P<answer>.*?)\s*<\/(?P=tag)>                        # answer (recursive-safe)
 				~xis',
 				$faq_section,
 				$qa_matches,
@@ -1021,6 +1021,11 @@ class BlogPostImporter
 		);
 		$content = preg_replace(
 			'/<!--\s*wp:paragraph\s*-->\s*<p>(?:\s*<br\s*\/?>\s*)+<\/p>\s*<!--\s*\/wp:paragraph\s*-->/i',
+			'',
+			$content
+		);
+		$content = preg_replace(
+			'/<!--\s*wp:list(?:\s*\{[^}]*\})?\s*-->\s*<(?:ul|ol)[^>]*>\s*(?:<li[^>]*>\s*(?:<p>\s*(?:<br\s*\/?>|\s*)<\/p>|\s*<br\s*\/?>|\s*)<\/li>\s*)*\s*<\/(?:ul|ol)>\s*<!--\s*\/wp:list\s*-->/is',
 			'',
 			$content
 		);
